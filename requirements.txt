@@ -1,0 +1,10 @@
+DatastreamPy==1.0.12
+docutils==0.18.1
+docutils==0.18.1
+ipython==8.12.3
+ipywidgets==7.8.1
+keyring==24.3.1
+protobuf==4.25.3
+pyOpenSSL==24.2.1
+PyYAML==6.0.1
+streamlit==1.37.1

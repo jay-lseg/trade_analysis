@@ -1,0 +1,42 @@
+﻿type,field,code_type,news_code,name,code
+currency,ER,ric,R:EUR=,US Dollar(USD) TO Euro Dollar(EUR),EUR=
+currency,ER,ric,"R:CNY=,R:CNH",Chinese Yuan(CNY) TO US Dollar(USD),CNY=
+currency,ER,ric,R:AUD=,US Dollar(USD) TO Australian Dollar(AUD),AUD=
+currency,ER,ric,R:CAD=,Canadian Dollar(CAD) TO US Dollar(USD),CAD=
+currency,ER,ric,R:CHF=,Swiss Franc(CHF) TO US Dollar(USD),CHF=
+currency,ER,ric,R:GBP=,US Dollar(USD) TO Great Brisitsh Pound(GBP),GBP=
+currency,ER,ric,R:JPY=,Japanese Yen(JPY) TO US Dollar(USD),JPY=
+currency,ER,ric,R:MXN=,Mexican Peso(MXN) TO US Dollar(USD),MXN=
+currency,ER,ric,R:RUB=,Russian Rouble(RUB) TO US Dollar(USD),RUB=
+currency,ER,ric,R:ZAR=,South African Rand(ZAR) TO US Dollar(USD),ZAR=
+currency,ER,ric,R:BRL=,Brazilian Real(BRL) TO US Dollar(USD),BRL=
+currency,ER,ric,R:INR=,India Rupee(INR) TO US Dollar(USD),INR=
+currency,ER,ric,R:IDR=,Indonesian Rupiah(IDR) TO US Dollar(USD),IDR=
+currency,ER,ric,R:SAR=,Saudi Riyal(SAR) TO US Dollar(USD),SAR=
+currency,ER,ric,R:KRW=,South Korean Won(KRW) TO US Dollar(USD),KRW=
+currency,ER,ric,R:TRY=,New Turkish Lira(TRY) TO US Dollar(USD),TRY=
+currency,ER,ric,R:ARS=,Argentine Peso(ARS) TO US Dollar(USD),ARS=
+company,P,ric,P:4295877399,Hino Motors,7205.T
+company,P,ric,P:8589934237,Nomura Holdings,8604.T
+company,P,ric,P:4295878076,Toshiba Tec,6588.T
+company,P,ric,P:4295880494,ANA Holdings,9202.T
+company,P,ric,P:4295876746,Toyota Motor,7203.T
+company,P,ric,P:4295905573,Apple Inc,AAPL.O
+company,P,ric,P:4295907168,Microsoft Corp,MSFT.O
+company,P,ric,P:5030853586,Alphabet Inc,GOOGL.O
+company,P,ric,P:4295905494,Amazon.com Inc,AMZN.O
+company,P,ric,P:4295870934,BYD Electronic International Co Ltd,0285.HK
+company,P,ric,P:4295864194,Sunny Optical Technology Group Co Ltd,2382.HK
+company,P,ric,P:5000789191,AIA Group Ltd,1299.HK
+company,P,ric,P:5037135721,Hua Hong Semiconductor Ltd,688347.SS
+company,P,ric,P:4295864072,Kweichow Moutai Co Ltd,600519.SS
+company,P,ric,P:4295863742,Industrial and Commercial Bank of China Ltd,601398.SS
+company,P,ric,P:4295871523,China Mobile Ltd,600941.SS
+company,P,ric,P:4295864860,PetroChina Co Ltd,601857.SS
+company,P,ric,P:5000014265,Agricultural Bank of China Ltd,601288.SS
+company,P,ric,P:4295863670,Bank of China Ltd,601988.SS
+company,P,ric,P:4295891754,Mega Financial Holding Co Ltd,2886.TW
+company,P,ric,P:5056393183,Wiwynn Corp,6669.TW
+company,P,ric,P:4295891064,Uni-President Enterprises Corp,1216.TW
+company,P,ric,P:4295891729,E.SUN Financial Holding Co Ltd,2884.TW
+company,P,ric,P:4295891056,Evergreen Marine Corp Taiwan Ltd,2603.TW
