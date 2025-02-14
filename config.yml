@@ -1,0 +1,12 @@
+config:
+  USERNAME: "Jayden.zhang2.rdp@lseg.com"
+  PASSWORD: "2023Jayden?"
+  CLIENT_ID: "a81277a0d63b46c7a4f27aebe48fd0c68cbd0268"
+  UUID: ""
+  RDP_version: "/v1"
+  base_URL: "https://api.refinitiv.com"
+  category_URL: "/auth/oauth2"
+  endpoint_URL: "/token"
+  CLIENT_SECRET: ""
+  TOKEN_FILE: "token.txt"
+  SCOPE: "trapi"
